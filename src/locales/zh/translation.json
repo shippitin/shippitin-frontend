@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "使用 Shippitin 简化您的物流流程"
+  },
+  "form": {
+    "from": "起始地点",
+    "to": "目的地",
+    "cargoType": "货物类型",
+    "weight": "重量（公斤）",
+    "date": "日期",
+    "getQuote": "获取报价",
+    "estimatedPrice": "预估价格："
+  },
+  "tabs": {
+    "oneTime": "一次性运输",
+    "multipleStops": "多站点运输",
+    "recurring": "定期运输"
+  },
+  "services": {
+    "road": "公路",
+    "rail": "铁路",
+    "air": "空运",
+    "sea": "海运",
+    "lcl": "LCL",
+    "parcel": "包裹",
+    "insurance": "保险",
+    "firstLastMile": "首 / 末公里",
+    "global": "全球"
+  },
+  "offers": {
+    "title": "热门优惠",
+    "road": {
+      "title": "公路货运立减 15%",
+      "description": "首次使用 Shippitin 发货享受专属折扣。",
+      "cta": "立即预订"
+    },
+    "global": {
+      "title": "全球运输优惠",
+      "description": "本月高价值货物可享受免费保险。",
+      "cta": "探索优惠"
+    },
+    "insurance": {
+      "title": "保险组合",
+      "description": "为 LCL 和 FCL 订单提供专属保险。",
+      "cta": "立即领取"
+    }
+  },
+  "why": {
+    "title": "为什么选择 Shippitin？",
+    "panIndia": {
+      "title": "全印度覆盖",
+      "desc": "轻松连接城市和农村地区。"
+    },
+    "multiModal": {
+      "title": "多模式支持",
+      "desc": "选择公路、铁路、空运或海运 — 我们全都搞定。"
+    },
+    "instantQuotes": {
+      "title": "实时报价",
+      "desc": "实时定价和快速预订。"
+    }
+  },
+  "howItWorks": {
+    "title": "如何运作",
+    "step1": {
+      "title": "1. 选择服务",
+      "desc": "选择运输模式和服务类型。"
+    },
+    "step2": {
+      "title": "2. 获取报价",
+      "desc": "即时获取价格和时间表。"
+    },
+    "step3": {
+      "title": "3. 确认并追踪",
+      "desc": "预订并实时追踪您的货物。"
+    }
+  },
+  "trusted": {
+    "title": "受信赖的合作伙伴"
+  },
+  "cta": {
+    "title": "使用 Shippitin 简化您的物流流程",
+    "subtitle": "一个平台即可获取报价、预订并追踪货运 — 包括公路、铁路、空运与海运。",
+    "button": "立即预订"
+  },
+  "footer": {
+    "services": "服务",
+    "support": "支持",
+    "legal": "法律条款",
+    "follow": "关注我们"
+  },
+  "header": {
+    "track": "追踪",
+    "myShipments": "我的货物",
+    "support": "支持",
+    "loginSignup": "登录 / 注册"
+  }
+}

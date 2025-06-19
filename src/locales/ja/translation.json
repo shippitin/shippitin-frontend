@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Shippitinで物流を簡素化"
+  },
+  "form": {
+    "from": "出発地",
+    "to": "目的地",
+    "cargoType": "貨物の種類",
+    "weight": "重量（kg）",
+    "date": "日付",
+    "getQuote": "見積もりを取得",
+    "estimatedPrice": "推定価格："
+  },
+  "tabs": {
+    "oneTime": "一回限りの配送",
+    "multipleStops": "複数拠点配送",
+    "recurring": "定期配送"
+  },
+  "services": {
+    "road": "陸路",
+    "rail": "鉄道",
+    "air": "空輸",
+    "sea": "海運",
+    "lcl": "LCL",
+    "parcel": "小包",
+    "insurance": "保険",
+    "firstLastMile": "ファースト/ラストマイル",
+    "global": "グローバル"
+  },
+  "offers": {
+    "title": "おすすめのオファー",
+    "road": {
+      "title": "陸路配送が15%オフ",
+      "description": "Shippitinで初めて配送する方に特別割引。",
+      "cta": "今すぐ予約"
+    },
+    "global": {
+      "title": "グローバル配送キャンペーン",
+      "description": "今月限定で高額貨物に無料保険付き。",
+      "cta": "お得をチェック"
+    },
+    "insurance": {
+      "title": "保険パック",
+      "description": "LCLとFCLの注文に特別保険を提供。",
+      "cta": "今すぐ利用"
+    }
+  },
+  "why": {
+    "title": "なぜShippitin？",
+    "panIndia": {
+      "title": "インド全土対応",
+      "desc": "都市部と農村部を簡単に接続。"
+    },
+    "multiModal": {
+      "title": "マルチモーダル対応",
+      "desc": "陸・鉄道・空・海、すべてお任せ。"
+    },
+    "instantQuotes": {
+      "title": "即時見積もり",
+      "desc": "リアルタイム価格で簡単予約。"
+    }
+  },
+  "howItWorks": {
+    "title": "ご利用の流れ",
+    "step1": {
+      "title": "1. サービスを選択",
+      "desc": "配送モードとタイプを選びます。"
+    },
+    "step2": {
+      "title": "2. 見積もりを取得",
+      "desc": "価格と時間の見積もりを即座に取得。"
+    },
+    "step3": {
+      "title": "3. 確認・追跡",
+      "desc": "予約して配送をリアルタイムで追跡。"
+    }
+  },
+  "trusted": {
+    "title": "信頼のパートナー"
+  },
+  "cta": {
+    "title": "Shippitinで物流を簡素化",
+    "subtitle": "インド全国の陸路・鉄道・空輸・海運を1つのプラットフォームで予約・追跡・見積もり。",
+    "button": "今すぐ予約"
+  },
+  "footer": {
+    "services": "サービス",
+    "support": "サポート",
+    "legal": "法的情報",
+    "follow": "フォローする"
+  },
+  "header": {
+    "track": "追跡",
+    "myShipments": "マイ配送",
+    "support": "サポート",
+    "loginSignup": "ログイン / 登録"
+  }
+}

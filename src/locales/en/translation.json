@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Simplify Your Logistics with Shippitin"
+  },
+  "form": {
+    "from": "From Location",
+    "to": "To Location",
+    "cargoType": "Cargo Type",
+    "weight": "Weight (kg)",
+    "date": "Date",
+    "getQuote": "Get Quote",
+    "estimatedPrice": "Estimated Price:"
+  },
+  "tabs": {
+    "oneTime": "One-Time Shipment",
+    "multipleStops": "Multiple Stops",
+    "recurring": "Regular / Recurring"
+  },
+  "services": {
+    "road": "Road",
+    "rail": "Rail",
+    "air": "Air",
+    "sea": "Sea",
+    "lcl": "LCL",
+    "parcel": "Parcel",
+    "insurance": "Insurance",
+    "firstLastMile": "First / Last Mile",
+    "global": "Global"
+  },
+  "offers": {
+    "title": "Top Offers",
+    "road": {
+      "title": "Flat 15% Off on Road Freight",
+      "description": "Special discount for first-time shippers via Shippitin.",
+      "cta": "Book Now"
+    },
+    "global": {
+      "title": "Global Shipping Offer",
+      "description": "Free cargo insurance for select high-value shipments this month.",
+      "cta": "Explore Deals"
+    },
+    "insurance": {
+      "title": "Insurance Combo",
+      "description": "Get exclusive shipping insurance on LCL & FCL orders.",
+      "cta": "Claim Now"
+    }
+  },
+  "why": {
+    "title": "Why Choose Shippitin?",
+    "panIndia": {
+      "title": "Pan-India Coverage",
+      "desc": "Connects remote and urban locations effortlessly."
+    },
+    "multiModal": {
+      "title": "Multi-Modal Support",
+      "desc": "Choose from road, rail, air or sea — we handle it all."
+    },
+    "instantQuotes": {
+      "title": "Instant Quotes",
+      "desc": "Real-time pricing & quick booking made easy."
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": {
+      "title": "1. Choose Service",
+      "desc": "Select shipment mode & service type."
+    },
+    "step2": {
+      "title": "2. Get Quote",
+      "desc": "Get instant pricing and timelines."
+    },
+    "step3": {
+      "title": "3. Confirm & Track",
+      "desc": "Book and track your shipment in real-time."
+    }
+  },
+  "trusted": {
+    "title": "Trusted By"
+  },
+  "cta": {
+    "title": "Simplify Your Logistics with Shippitin",
+    "subtitle": "One platform to quote, book, and track freight across India — road, rail, air & sea.",
+    "button": "Book Now"
+  },
+  "footer": {
+    "services": "Services",
+    "support": "Support",
+    "legal": "Legal",
+    "follow": "Follow Us"
+  },
+  "header": {
+    "track": "Track",
+    "myShipments": "My Shipments",
+    "support": "Support",
+    "loginSignup": "Login or Signup"
+  }
+}

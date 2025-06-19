@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Simplifiez votre logistique avec Shippitin"
+  },
+  "form": {
+    "from": "Lieu de départ",
+    "to": "Lieu d’arrivée",
+    "cargoType": "Type de cargaison",
+    "weight": "Poids (kg)",
+    "date": "Date",
+    "getQuote": "Obtenir un devis",
+    "estimatedPrice": "Prix estimé :"
+  },
+  "tabs": {
+    "oneTime": "Expédition unique",
+    "multipleStops": "Arrêts multiples",
+    "recurring": "Récurrent / Régulier"
+  },
+  "services": {
+    "road": "Routier",
+    "rail": "Ferroviaire",
+    "air": "Aérien",
+    "sea": "Maritime",
+    "lcl": "LCL",
+    "parcel": "Colis",
+    "insurance": "Assurance",
+    "firstLastMile": "Premier / Dernier km",
+    "global": "Mondial"
+  },
+  "offers": {
+    "title": "Offres spéciales",
+    "road": {
+      "title": "15% de réduction sur le transport routier",
+      "description": "Réduction spéciale pour les nouveaux utilisateurs de Shippitin.",
+      "cta": "Réserver"
+    },
+    "global": {
+      "title": "Offre d’expédition mondiale",
+      "description": "Assurance gratuite pour les cargaisons de grande valeur ce mois-ci.",
+      "cta": "Découvrir"
+    },
+    "insurance": {
+      "title": "Pack d’assurance",
+      "description": "Assurance exclusive pour les commandes LCL & FCL.",
+      "cta": "Profiter"
+    }
+  },
+  "why": {
+    "title": "Pourquoi choisir Shippitin ?",
+    "panIndia": {
+      "title": "Couverture pan-indienne",
+      "desc": "Relie facilement les zones urbaines et rurales."
+    },
+    "multiModal": {
+      "title": "Support multi-modal",
+      "desc": "Choisissez la route, le rail, l’air ou la mer — on s’en occupe."
+    },
+    "instantQuotes": {
+      "title": "Devis instantané",
+      "desc": "Tarification en temps réel et réservation rapide."
+    }
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "step1": {
+      "title": "1. Choisissez un service",
+      "desc": "Sélectionnez un mode de transport et un type de service."
+    },
+    "step2": {
+      "title": "2. Obtenez un devis",
+      "desc": "Recevez un devis et des délais immédiats."
+    },
+    "step3": {
+      "title": "3. Confirmez et suivez",
+      "desc": "Réservez et suivez votre envoi en temps réel."
+    }
+  },
+  "trusted": {
+    "title": "Ils nous font confiance"
+  },
+  "cta": {
+    "title": "Simplifiez votre logistique avec Shippitin",
+    "subtitle": "Un seul outil pour devis, réservation et suivi — par route, rail, air ou mer.",
+    "button": "Réserver maintenant"
+  },
+  "footer": {
+    "services": "Services",
+    "support": "Support",
+    "legal": "Légal",
+    "follow": "Suivez-nous"
+  },
+  "header": {
+    "track": "Suivi",
+    "myShipments": "Mes expéditions",
+    "support": "Assistance",
+    "loginSignup": "Connexion / Inscription"
+  }
+}
